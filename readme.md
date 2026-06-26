@@ -125,7 +125,13 @@ flights_sample_3m.csv
 - 3,000,000 Flight Records
 - Multiple Airlines
 - 2019–2023 Flight Data
+📥 Download Dataset
 
+The original dataset is publicly available on Kaggle:
+
+🔗 https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023
+
+Dataset Credit: Patrick Zelazko (Kaggle). The dataset is derived from the U.S. Department of Transportation (DOT) Bureau of Transportation Statistics.
 ### Includes
 
 - Airline
@@ -176,9 +182,6 @@ Flight-Delay-Dashboard/
 │
 ├── Dashboard/
 │   └── Flight_Delay_and_Cancellation_dashboard.pbix
-│
-├── Dataset/
-│   └── flights_sample_3m.csv
 │
 ├── Dashboard PDF/
 │   └── Flight_Delay_and_Cancellation_dashboard.pdf
